@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.CucumberBatch44" />
+        <module name="CucumberBatch44" />
       </profile>
     </annotationProcessing>
   </component>
